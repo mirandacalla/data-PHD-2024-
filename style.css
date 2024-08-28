@@ -1,0 +1,12 @@
+body {
+  background-color: cornsilk;
+}
+.hero {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+.detail {
+  display: flex;
+  padding: 2px;
+}
